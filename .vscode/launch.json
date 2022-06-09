@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PokeApplication<gs-serving-web-content>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.PokeApplication",
+            "projectName": "gs-serving-web-content",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
